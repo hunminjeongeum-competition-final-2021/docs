@@ -12,10 +12,6 @@
 
 | 일정                   | 내용                                  | 기타                                     |
 | ---------------------- | ------------------------------------- | ---------------------------------------- |
-| **10/9 14:00**         | **개회**                              |               
-| **10/9 ~ 10/24 23:00** | **예선**                              | 문제별 10팀 선발                         |
-| **10/25 ~ 10/26**      | **예선 코드 제출 및 검증**            | 이메일 제출 (dacon@dacon.io)             |
-| **10/27**              | **예선 결과 발표**                   | 선발된 10팀에게 이메일로 공지             |
 | **11/1 ~ 11/30**       | **본선**                              |
 | **12/8**               | **수상자 발표**                       | 문제별 6팀, 특별상 3팀                   |
 | 10/9 ~ 11/30 23:00     | 인공지능 학습용 데이터 품질 리뷰 제출 | 사무국 이메일 제출 (aihub0618@gmail.com) |
@@ -45,22 +41,14 @@
 
 - [Custom Docker Image 설명](https://github.com/hunminjeongeum-korean-competition-2021/docs/blob/main/DockerImage.md)
 
-## 대회 별 Baseline Code
-
-- [문서 요약 BaseLine Code](https://github.com/hunminjeongeum-korean-competition-2021/dialogue-summarization/tree/main/baseline)
-
-- [화자 인식 BaseLine Code](https://github.com/hunminjeongeum-korean-competition-2021/speaker-recognition/tree/main/baseline)
-
-- [음성 인식 BaseLine Code](https://github.com/hunminjeongeum-korean-competition-2021/speaker-recognition/tree/main/baseline)
-
-- [Docker Image based Libraries for BaseLine Code](https://hub.docker.com/u/dacon)
-
 ## 대회 별 데이터셋 설명
 
 - [문제1 문서 요약](https://github.com/hunminjeongeum-korean-competition-2021/dialog-summarization/blob/main/README.md#%EB%AC%B8%EC%A0%9C-1-%EB%AC%B8%EC%84%9C%EC%9A%94%EC%95%BD-dataset-%EC%84%A4%EB%AA%85)
 
 - [문제2 화자 인식](https://github.com/hunminjeongeum-korean-competition-2021/speaker-recognition/blob/main/README.md#%EB%AC%B8%EC%A0%9C-2-%ED%99%94%EC%9E%90%EC%9D%B8%EC%8B%9D-dataset-%EC%84%A4%EB%AA%85)
 
-- [문제3 음성 인식(명령어)](https://github.com/hunminjeongeum-korean-competition-2021/voice-recognition-performance-evaluation/blob/main/README.md#%EB%AC%B8%EC%A0%9C-3-%EC%9D%8C%EC%84%B1%EC%9D%B8%EC%8B%9D-%EB%AA%85%EB%A0%B9%EC%96%B4-dataset-%EC%84%A4%EB%AA%85)
+- [문제3 음성 인식(자유대화)](https://github.com/hunminjeongeum-korean-competition-2021/voice-recognition-performance-evaluation/blob/main/README.md#%EB%AC%B8%EC%A0%9C-4-%EC%9D%8C%EC%84%B1%EC%9D%B8%EC%8B%9D-%EC%9E%90%EC%9C%A0%EB%8C%80%ED%99%94-dataset-%EC%84%A4%EB%AA%85)
 
-- [문제4 음성 인식(자유대화)](https://github.com/hunminjeongeum-korean-competition-2021/voice-recognition-performance-evaluation/blob/main/README.md#%EB%AC%B8%EC%A0%9C-4-%EC%9D%8C%EC%84%B1%EC%9D%B8%EC%8B%9D-%EC%9E%90%EC%9C%A0%EB%8C%80%ED%99%94-dataset-%EC%84%A4%EB%AA%85)
+- [문제4 음성 인식(명령어)](https://github.com/hunminjeongeum-korean-competition-2021/voice-recognition-performance-evaluation/blob/main/README.md#%EB%AC%B8%EC%A0%9C-3-%EC%9D%8C%EC%84%B1%EC%9D%B8%EC%8B%9D-%EB%AA%85%EB%A0%B9%EC%96%B4-dataset-%EC%84%A4%EB%AA%85)
+
+- [문제5 음성 인식(한국어 방언)](https://github.com/hunminjeongeum-korean-competition-2021/voice-recognition-performance-evaluation/blob/main/README.md#%EB%AC%B8%EC%A0%9C-3-%EC%9D%8C%EC%84%B1%EC%9D%B8%EC%8B%9D-%EB%AA%85%EB%A0%B9%EC%96%B4-dataset-%EC%84%A4%EB%AA%85)
