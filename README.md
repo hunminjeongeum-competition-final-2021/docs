@@ -25,7 +25,9 @@
 - **사용 가능 언어** : <u>Python</u>
 - **대회별 문의** : 각 대회별 `Repositoy`에서 `Issues`에 글을 남김
 - **추론 시간** : 1시간 이내
-  ### 실격 사유
+- 본선에서는 별도의 baseline 코드가 제공되지 않습니다.
+
+- ### 실격 사유
 
   **아래에 해당하는 모든 사유는 대회 실격 사유에 해당됩니다.**
 
@@ -51,4 +53,4 @@
 
 - [문제4 음성 인식(명령어)](https://github.com/hunminjeongeum-korean-competition-2021/voice-recognition-performance-evaluation/blob/main/README.md#%EB%AC%B8%EC%A0%9C-3-%EC%9D%8C%EC%84%B1%EC%9D%B8%EC%8B%9D-%EB%AA%85%EB%A0%B9%EC%96%B4-dataset-%EC%84%A4%EB%AA%85)
 
-- [문제5 음성 인식(한국어 방언)](https://github.com/hunminjeongeum-korean-competition-2021/voice-recognition-performance-evaluation/blob/main/README.md#%EB%AC%B8%EC%A0%9C-3-%EC%9D%8C%EC%84%B1%EC%9D%B8%EC%8B%9D-%EB%AA%85%EB%A0%B9%EC%96%B4-dataset-%EC%84%A4%EB%AA%85)
+- [문제5 음성 인식(한국어방언)](https://github.com/hunminjeongeum-korean-competition-2021/voice-recognition-performance-evaluation/blob/main/README.md#%EB%AC%B8%EC%A0%9C-3-%EC%9D%8C%EC%84%B1%EC%9D%B8%EC%8B%9D-%EB%AA%85%EB%A0%B9%EC%96%B4-dataset-%EC%84%A4%EB%AA%85)
